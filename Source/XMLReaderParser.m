@@ -17,7 +17,10 @@
 - (NSDictionary*)objectFromString:(NSString*)string error:(NSError **)error {
 	NSDictionary *xmlDictionary = [[XMLReader dictionaryForXMLString:string error:error] retain];
 	
-	return [xmlDictionary count] > 0 ? xmlDictionary : nil;
+	return xmlDictionary;
+	
+	//** 9.3 fixed empty result issue...
+	//return [xmlDictionary count] > 0 ? xmlDictionary : nil;
 }
 
 

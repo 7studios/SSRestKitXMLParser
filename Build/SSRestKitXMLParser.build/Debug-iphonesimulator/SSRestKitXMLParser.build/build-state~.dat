@@ -1,0 +1,228 @@
+TSSRestKitXMLParser
+v7
+r0
+t334099491.814570
+cCheck dependencies
+cCpHeader Build/Debug-iphonesimulator/PrivateHeaders/SSRestKitXMLParser_Prefix.pch SSRestKitXMLParser_Prefix.pch
+cCpHeader Build/Debug-iphonesimulator/PrivateHeaders/XMLReader.h Source/XMLReader/XMLReader.h
+cCpHeader Build/Debug-iphonesimulator/Headers/XMLReaderParser.h Source/XMLReaderParser.h
+cCpHeader Build/Debug-iphonesimulator/Headers/SSRestKitXMLParser.h Source/SSRestKitXMLParser.h
+cProcessPCH /var/folders/ws/wsSZaYjZEzaOATyWANYsyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSRestKitXMLParser_Prefix-bmziknrwunpmyjdorshvmtxghsdu/SSRestKitXMLParser_Prefix.pch.pth SSRestKitXMLParser_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReader.o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReaderParser.o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/NSStack.o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/NSStack.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/libSSRestKitXMLParser.a" normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D7FC8A10000000000000110
+t1300220065
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/Headers/SSRestKitXMLParser.h
+t1312406691
+s193
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/Headers/XMLReaderParser.h
+t1312406691
+s259
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/PrivateHeaders/SSRestKitXMLParser_Prefix.pch
+t1312406691
+s189
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/PrivateHeaders/XMLReader.h
+t1312406691
+s588
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/libSSRestKitXMLParser.a
+t1312406691
+s51176
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/NSStack.o
+t1312406691
+s16792
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/SSRestKitXMLParser.LinkFileList
+c000000004E39BCA30000000000000226
+t1312406691
+s550
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReader.o
+t1312406691
+s26980
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReaderParser.o
+t1312406691
+s6380
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/SSRestKitXMLParser_Prefix.pch
+c000000004E39BC6500000000000000BD
+t1312406629
+s189
+i<Foundation/Foundation.h>
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/NSStack.h
+c000000004E39BC6500000000000002D8
+t1312406629
+s728
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/NSStack.m
+c000000004E39BC650000000000000F4A
+t1312406629
+s3914
+i"NSStack.h"
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/RKParser.h
+c000000004E39BC650000000000000277
+t1312406629
+s631
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/SSRestKitXMLParser.h
+c000000004E39BC6500000000000000C1
+t1312406629
+s193
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.h
+c000000004E39BC65000000000000024C
+t1312406629
+s588
+i<Foundation/Foundation.h>
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.m
+c000000004E39BC650000000000001CFF
+t1312406629
+s7423
+i"XMLReader.h"
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.h
+c000000004E39BC650000000000000103
+t1312406629
+s259
+i<Foundation/Foundation.h>
+i"RKParser.h"
+
+N/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.m
+c000000004E39BCA2000000000000035C
+t1312406690
+s860
+i"XMLReaderParser.h"
+i"XMLReader.h"
+i"NSStack.h"
+
+N/var/folders/ws/wsSZaYjZEzaOATyWANYsyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSRestKitXMLParser_Prefix-bmziknrwunpmyjdorshvmtxghsdu/SSRestKitXMLParser_Prefix.pch.pth
+t1312406691
+s2226332
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334099491#334099491#0(0"0(0#1#0"8659331456#0"0#
+
+CCompileC Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/NSStack.o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/NSStack.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s334099491.751684
+e334099491.785991
+r1
+xCompileC
+xBuild/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/NSStack.o
+x/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/NSStack.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@96"Compile /Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/NSStack.m334099491#334099491#0(0"0(0#0#88"/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/NSStack.m8658387968#2567"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-generated-files.hmap" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-own-target-headers.hmap" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-all-target-headers.hmap" -iquote "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-project-headers.hmap" "-F/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/include" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/DerivedSources/i386" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/DerivedSources" -include /var/folders/ws/wsSZaYjZEzaOATyWANYsyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSRestKitXMLParser_Prefix-bmziknrwunpmyjdorshvmtxghsdu/SSRestKitXMLParser_Prefix.pch -c "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/NSStack.m" -o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/NSStack.o"0#
+
+CCompileC Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReader.o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s334099491.750098
+e334099491.791116
+r1
+xCompileC
+xBuild/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReader.o
+x/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@108"Compile /Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.m334099491#334099491#0(0"0(0#0#100"/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.m8699535232#2581"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-generated-files.hmap" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-own-target-headers.hmap" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-all-target-headers.hmap" -iquote "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-project-headers.hmap" "-F/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/include" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/DerivedSources/i386" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/DerivedSources" -include /var/folders/ws/wsSZaYjZEzaOATyWANYsyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSRestKitXMLParser_Prefix-bmziknrwunpmyjdorshvmtxghsdu/SSRestKitXMLParser_Prefix.pch -c "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.m" -o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReader.o"0#
+
+CCompileC Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReaderParser.o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s334099491.750936
+e334099491.772571
+r1
+xCompileC
+xBuild/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReaderParser.o
+x/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@104"Compile /Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.m334099491#334099491#0(0"0(0#0#96"/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.m8689036704#2583"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-generated-files.hmap" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-own-target-headers.hmap" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-all-target-headers.hmap" -iquote "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-project-headers.hmap" "-F/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/include" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/DerivedSources/i386" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/DerivedSources" -include /var/folders/ws/wsSZaYjZEzaOATyWANYsyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSRestKitXMLParser_Prefix-bmziknrwunpmyjdorshvmtxghsdu/SSRestKitXMLParser_Prefix.pch -c "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.m" -o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/XMLReaderParser.o"0#
+
+CCpHeader Build/Debug-iphonesimulator/Headers/SSRestKitXMLParser.h Source/SSRestKitXMLParser.h
+s334099491.625381
+e334099491.628927
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/Headers/SSRestKitXMLParser.h
+xSource/SSRestKitXMLParser.h
+lSLF07#2@32"Copy Source/SSRestKitXMLParser.h334099491#334099491#0(0"0(0#0#99"/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/SSRestKitXMLParser.h8697758080#586"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/SSRestKitXMLParser.h" "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/Headers"0#
+
+CCpHeader Build/Debug-iphonesimulator/Headers/XMLReaderParser.h Source/XMLReaderParser.h
+s334099491.624837
+e334099491.628347
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/Headers/XMLReaderParser.h
+xSource/XMLReaderParser.h
+lSLF07#2@29"Copy Source/XMLReaderParser.h334099491#334099491#0(0"0(0#0#96"/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.h8699497536#583"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReaderParser.h" "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/Headers"0#
+
+CCpHeader Build/Debug-iphonesimulator/PrivateHeaders/SSRestKitXMLParser_Prefix.pch SSRestKitXMLParser_Prefix.pch
+s334099491.623650
+e334099491.627609
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/PrivateHeaders/SSRestKitXMLParser_Prefix.pch
+xSSRestKitXMLParser_Prefix.pch
+lSLF07#2@34"Copy SSRestKitXMLParser_Prefix.pch334099491#334099491#0(0"0(0#0#101"/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/SSRestKitXMLParser_Prefix.pch8702277248#595"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/SSRestKitXMLParser_Prefix.pch" "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/PrivateHeaders"0#
+
+CCpHeader Build/Debug-iphonesimulator/PrivateHeaders/XMLReader.h Source/XMLReader/XMLReader.h
+s334099491.624304
+e334099491.627983
+r1
+xCpHeader
+xBuild/Debug-iphonesimulator/PrivateHeaders/XMLReader.h
+xSource/XMLReader/XMLReader.h
+lSLF07#2@33"Copy Source/XMLReader/XMLReader.h334099491#334099491#0(0"0(0#0#100"/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.h8701199072#594"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Source/XMLReader/XMLReader.h" "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/PrivateHeaders"0#
+
+CLibtool "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/libSSRestKitXMLParser.a" normal i386
+s334099491.791191
+e334099491.814541
+r1
+xLibtool
+x/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/libSSRestKitXMLParser.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@71"Libtool Build/Debug-iphonesimulator/libSSRestKitXMLParser.a normal i386334099491#334099491#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8634327776#924"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator" -filelist "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/Objects-normal/i386/SSRestKitXMLParser.LinkFileList" -ObjC -framework Foundation -o "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/libSSRestKitXMLParser.a"0#
+
+CProcessPCH /var/folders/ws/wsSZaYjZEzaOATyWANYsyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSRestKitXMLParser_Prefix-bmziknrwunpmyjdorshvmtxghsdu/SSRestKitXMLParser_Prefix.pch.pth SSRestKitXMLParser_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s334099491.629001
+e334099491.750017
+r1
+xProcessPCH
+x/var/folders/ws/wsSZaYjZEzaOATyWANYsyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSRestKitXMLParser_Prefix-bmziknrwunpmyjdorshvmtxghsdu/SSRestKitXMLParser_Prefix.pch.pth
+xSSRestKitXMLParser_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@40"Precompile SSRestKitXMLParser_Prefix.pch334099491#334099491#0(0"0(0#0#101"/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/SSRestKitXMLParser_Prefix.pch8693991072#2400"    cd "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-generated-files.hmap" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-own-target-headers.hmap" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-all-target-headers.hmap" -iquote "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/SSRestKitXMLParser-project-headers.hmap" "-F/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/Debug-iphonesimulator/include" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/DerivedSources/i386" "-I/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/Build/SSRestKitXMLParser.build/Debug-iphonesimulator/SSRestKitXMLParser.build/DerivedSources" -c "/Users/7studios/Desktop/Development/Latest Dev/SSRestKitXMLParserGitHub/SSRestKitXMLParser_Prefix.pch" -o /var/folders/ws/wsSZaYjZEzaOATyWANYsyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSRestKitXMLParser_Prefix-bmziknrwunpmyjdorshvmtxghsdu/SSRestKitXMLParser_Prefix.pch.pth0#
+
